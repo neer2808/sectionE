@@ -14,6 +14,8 @@ public class Efirst {
     System.out.println(obj.name);
     System.out.println("welcome to the java programing ");
 
+    System.out.println("hello ");
+
   }
         }
 
