@@ -12,6 +12,8 @@ public class Efirst {
     Efirst obj= new Efirst();
     obj.name= "rr";
     System.out.println(obj.name);
+    System.out.println("welcome to the java programing ");
+
   }
         }
 
